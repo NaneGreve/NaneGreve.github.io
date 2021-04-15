@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Posteo 2.0 Entrevista</title>
+      <link>/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-3/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Taller de Productos</title>
       <link>/docs/post-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -17,20 +26,20 @@
     </item>
     
     <item>
-      <title>Fabricacion de Prototipos</title>
-      <link>/docs/post-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post-3/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>Mariana Greve</title>
       <link>/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/post-1/</guid>
+      <description>Encargo 2020 Unity .</description>
+    </item>
+    
+    <item>
+      <title>Nuevo</title>
+      <link>/docs/post-4-copia/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-4-copia/</guid>
       <description>Encargo 2020 Unity .</description>
     </item>
     
