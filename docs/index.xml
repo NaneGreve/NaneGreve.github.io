@@ -79,5 +79,14 @@
       <description>Origami.</description>
     </item>
     
+    <item>
+      <title>Presetacion Grupal</title>
+      <link>/docs/markdown-cheesecake/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/markdown-cheesecake/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
   </channel>
 </rss>
